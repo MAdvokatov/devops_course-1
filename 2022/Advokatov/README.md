@@ -4,3 +4,4 @@
 [Lab3](https://github.com/MAdvokatov/devops_course/tree/master/lab3)  
 [Lab4](https://github.com/MAdvokatov/devops_course/tree/master/lab4)  
 [Lab5](https://github.com/MAdvokatov/devops_course/tree/master/lab5)
+[Lab6](https://github.com/MAdvokatov/devops_course/tree/master/lab6)
